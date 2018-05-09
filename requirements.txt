@@ -1,0 +1,5 @@
+tweepy
+tweet-preprocessor
+nltk
+twython
+numpy
